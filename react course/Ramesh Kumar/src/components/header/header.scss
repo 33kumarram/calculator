@@ -1,0 +1,36 @@
+.head{
+    position: fixed;
+    display: flex;
+    height:50px;
+    width: 100vw;
+    background-color:#0e387a;
+    color:#9fafca;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    border-bottom: 1.5px solid white;
+    z-index: 2;
+    
+    h2{
+        margin-left: 10px;
+    }
+
+   .links{
+       display: flex;
+       margin-right: 10px;
+
+    .link{
+        margin-left: 20px;
+        display: flex;
+        color: #9fafca;
+        text-decoration: none;
+        text-decoration-style: none;
+
+        &:hover{
+            font-weight: bold;
+        }
+
+    }
+   }
+    
+}

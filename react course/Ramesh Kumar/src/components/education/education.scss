@@ -1,0 +1,23 @@
+.edu{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    text-align: center;
+    top: 200px;
+ 
+
+    table{
+        table-layout: auto;
+         width: 80%;
+
+         th, td{
+            border: 1px solid #0e387a;
+            padding: 5px;
+            color:#0e387a ;
+         }
+         th{
+             background-color:#0e387a;
+             color: #9fafca;
+         }
+    }
+}
