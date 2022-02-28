@@ -18,9 +18,6 @@ export const Connect =()=>{
                         <td>Email : rk3790690@gmail.com</td>
                     </tr>
                     <tr>
-                        <td>LinkedIn : https://github.com/33kumarram </td>
-                    </tr>
-                    <tr>
                         <td>GitHub : https://github.com/33kumarram </td>
                     </tr>
                 </tbody>
